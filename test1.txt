@@ -1,0 +1,11 @@
+text 1
+Text 2
+text 2.5 
+TEXT 3
+text 4 
+texT 5 
+ktext 6 
+texr 7
+text 8 
+texT 9 
+texxt 10 
